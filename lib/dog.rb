@@ -19,4 +19,5 @@ class Dog
   
   def self.print_all
     @@all[1, 2, 3]
+  end
 end
